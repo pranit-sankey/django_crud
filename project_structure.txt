@@ -20,4 +20,4 @@
 |   |--settings.py 
 |   |--urls.py
 
-thats
+thats in main
